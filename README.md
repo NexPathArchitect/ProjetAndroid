@@ -29,6 +29,7 @@ Tests de faisabilité préliminaires effectués ; le mini-prototype d'écran uni
 |---|---|
 | [`docs/proposition-lis-moi-ca.md`](docs/proposition-lis-moi-ca.md) | Proposition de projet : objectif, fonctionnalités, public cible et technologies. |
 | [`docs/rapport-test-preliminaire-lis-moi-ca.md`](docs/rapport-test-preliminaire-lis-moi-ca.md) | Rapport de test préliminaire : lectures d'étiquettes, requêtes API, contraintes de conception, verdict préliminaire et mesures prévues. |
+| [docs/rapport-faisabilite-lis-moi-ca.md](docs/rapport-faisabilite-lis-moi-ca.md) | Rapport de faisabilité : tests ML Kit (direct et photo), API DPD et LNHPD, synthèse vocale, défis et solutions. |
 
 ## Structure du dépôt (à venir)
 
